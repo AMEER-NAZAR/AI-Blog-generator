@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+langchain_groq
+crewai
+crewai[tools]
+groq
+md2docx-python
+IPython
+pysqlite3-binary
